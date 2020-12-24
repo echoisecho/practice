@@ -13,6 +13,15 @@ tmp
 templates
 savedatta/
 *.bak
+yolov3/yolov3.data*
+yolov3/yolov3.index
+yolov3/yolov3.weights
+yolov3/checkpoint
+yolov3/data/dataset
+yolov3/data/detection
+yolov3/data/log
+mAP
+
 
 # Distribution / packaging
 .Python
